@@ -1,0 +1,90 @@
+{
+  "uid" : "151ef2cdf2e87d8b",
+  "name" : "Parametrized test with labels | {\"first\":2,\"second\":\"bravo\",\"third\":false}",
+  "fullName" : "Buildin allure for ts:.Parametrized test with labels | {\"first\":2,\"second\":\"bravo\",\"third\":false}",
+  "historyId" : "31510a070c324ab5687bc60b89328ed8",
+  "time" : {
+    "start" : 1600450604550,
+    "stop" : 1600450606685,
+    "duration" : 2135
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "The expression evaluated to a falsy value:\n                \n                  allure.feature(\"Feature example\")\n                ",
+  "statusTrace" : "AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n                \n                  allure.feature(\"Feature example\")\n                \n                    at Test.<anonymous> (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/specs/data.spec.ts:15:10)\n                    at Context.test.fn (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/codeceptjs/lib/scenario.js:78:14)\n                    at callFnAsync (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/mocha/lib/runnable.js:415:21)\n                    at Test.Runnable.run (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/mocha/lib/runnable.js:357:7)\n                    at Runner.runTest (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/mocha/lib/runner.js:535:10)\n                    at /home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/mocha/lib/runner.js:653:12\n                    at next (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/mocha/lib/runner.js:447:14)\n                    at /home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/mocha/lib/runner.js:457:7\n                    at next (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/mocha/lib/runner.js:362:14)\n                    at /home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/mocha/lib/runner.js:420:7",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Feature example"
+  }, {
+    "name" : "owner",
+    "value" : "bravo"
+  }, {
+    "name" : "suite",
+    "value" : "Buildin allure for ts:"
+  }, {
+    "name" : "testClass",
+    "value" : "Buildin allure for ts:"
+  }, {
+    "name" : "testMethod",
+    "value" : "Parametrized test with labels | {\"first\":2,\"second\":\"bravo\",\"third\":false}"
+  }, {
+    "name" : "package",
+    "value" : "Buildin allure for ts:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "owner" : "bravo",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 3,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "a044551126408e92",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/4//#testresult/a044551126408e92",
+        "status" : "failed",
+        "statusDetails" : "The expression evaluated to a falsy value:\n                \n                  allure.feature(\"Feature example\")\n                ",
+        "time" : {
+          "start" : 1600444991827,
+          "stop" : 1600444991874,
+          "duration" : 47
+        }
+      }, {
+        "uid" : "a929441edab70ff9",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/3//#testresult/a929441edab70ff9",
+        "status" : "failed",
+        "statusDetails" : "The expression evaluated to a falsy value:\n                \n                  allure.feature(\"Feature example\")\n                ",
+        "time" : {
+          "start" : 1600444533564,
+          "stop" : 1600444533605,
+          "duration" : 41
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "151ef2cdf2e87d8b.json",
+  "parameterValues" : [ ]
+}

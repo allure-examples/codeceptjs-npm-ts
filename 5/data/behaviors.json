@@ -1,0 +1,87 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Feature example",
+    "children" : [ {
+      "name" : "Passed test with labels",
+      "uid" : "bbe65bf0d89311eb",
+      "parentUid" : "8a7d5741dbcbba11dc814352ddff8980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600450604534,
+        "stop" : 1600450604542,
+        "duration" : 8
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Parametrized test with labels | {\"first\":1,\"second\":\"alpha\",\"third\":true}",
+      "uid" : "afb57c458cd45b3d",
+      "parentUid" : "8a7d5741dbcbba11dc814352ddff8980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600450604549,
+        "stop" : 1600450604550,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Parametrized test with labels | {\"first\":2,\"second\":\"bravo\",\"third\":false}",
+      "uid" : "151ef2cdf2e87d8b",
+      "parentUid" : "8a7d5741dbcbba11dc814352ddff8980",
+      "status" : "failed",
+      "time" : {
+        "start" : 1600450604550,
+        "stop" : 1600450606685,
+        "duration" : 2135
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8a7d5741dbcbba11dc814352ddff8980"
+  }, {
+    "name" : "Parametrized test with labels | {\"first\":3,\"second\":\"charlie\"}",
+    "uid" : "77630e77d2f03083",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "skipped",
+    "time" : {
+      "start" : 1600450604549,
+      "stop" : 1600450604549,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "simple passed test",
+    "uid" : "5b26dd08398cc31c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600450606690,
+      "stop" : 1600450606691,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "simple failed test",
+    "uid" : "63c1cdd99059e8d2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1600450606691,
+      "stop" : 1600450606695,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ],
+  "name" : "behaviors"
+}

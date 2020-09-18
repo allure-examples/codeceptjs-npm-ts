@@ -1,0 +1,100 @@
+{
+  "uid" : "5b26dd08398cc31c",
+  "name" : "simple passed test",
+  "fullName" : "Buildin allure for spec in ts:.simple passed test",
+  "historyId" : "9af28e01f408854a073e1ecef0f59efe",
+  "time" : {
+    "start" : 1600450606690,
+    "stop" : 1600450606691,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "I passed step ",
+      "time" : {
+        "start" : 1600450606691,
+        "stop" : 1600450606691,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Buildin allure for spec in ts:"
+  }, {
+    "name" : "testClass",
+    "value" : "Buildin allure for spec in ts:"
+  }, {
+    "name" : "testMethod",
+    "value" : "simple passed test"
+  }, {
+    "name" : "package",
+    "value" : "Buildin allure for spec in ts:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 3,
+        "unknown" : 0,
+        "total" : 3
+      },
+      "items" : [ {
+        "uid" : "687f1c60163d4a64",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/4//#testresult/687f1c60163d4a64",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600444991877,
+          "stop" : 1600444991878,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "1716913e9fd416c1",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/3//#testresult/1716913e9fd416c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600444533609,
+          "stop" : 1600444533610,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "5b26dd08398cc31c.json",
+  "parameterValues" : [ ]
+}
