@@ -1,0 +1,95 @@
+{
+  "uid" : "cd1d73fd9abd701e",
+  "name" : "simple failed test",
+  "fullName" : "Buildin allure for spec in ts:.simple failed test",
+  "historyId" : "effe1028f47f019cc75c82980770481b",
+  "time" : {
+    "start" : 1600444533610,
+    "stop" : 1600444533613,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "false == true",
+  "statusTrace" : "AssertionError [ERR_ASSERTION]: false == true\n                    at Dummy.failedStep (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/helpers/dummy.ts:8:5)\n                    at Step.run (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/codeceptjs/lib/step.js:70:47)\n                    at /home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/codeceptjs/lib/actor.js:92:23",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "false == true",
+    "statusTrace" : "AssertionError [ERR_ASSERTION]: false == true\n                    at Dummy.failedStep (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/helpers/dummy.ts:8:5)\n                    at Step.run (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/codeceptjs/lib/step.js:70:47)\n                    at /home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/codeceptjs/lib/actor.js:92:23",
+    "steps" : [ {
+      "name" : "I passed step ",
+      "time" : {
+        "start" : 1600444533611,
+        "stop" : 1600444533611,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "I failed step ",
+      "time" : {
+        "start" : 1600444533611,
+        "stop" : 1600444533613,
+        "duration" : 2
+      },
+      "status" : "failed",
+      "statusMessage" : "AssertionError [ERR_ASSERTION]: false == true\n                    at Dummy.failedStep (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/helpers/dummy.ts:8:5)\n                    at Step.run (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/codeceptjs/lib/step.js:70:47)\n                    at /home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/codeceptjs/lib/actor.js:92:23",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : true,
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Buildin allure for spec in ts:"
+  }, {
+    "name" : "testClass",
+    "value" : "Buildin allure for spec in ts:"
+  }, {
+    "name" : "testMethod",
+    "value" : "simple failed test"
+  }, {
+    "name" : "package",
+    "value" : "Buildin allure for spec in ts:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "cd1d73fd9abd701e.json",
+  "parameterValues" : [ ]
+}

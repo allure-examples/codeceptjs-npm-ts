@@ -1,0 +1,71 @@
+{
+  "uid" : "1716913e9fd416c1",
+  "name" : "simple passed test",
+  "fullName" : "Buildin allure for spec in ts:.simple passed test",
+  "historyId" : "9af28e01f408854a073e1ecef0f59efe",
+  "time" : {
+    "start" : 1600444533609,
+    "stop" : 1600444533610,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "I passed step ",
+      "time" : {
+        "start" : 1600444533610,
+        "stop" : 1600444533610,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Buildin allure for spec in ts:"
+  }, {
+    "name" : "testClass",
+    "value" : "Buildin allure for spec in ts:"
+  }, {
+    "name" : "testMethod",
+    "value" : "simple passed test"
+  }, {
+    "name" : "package",
+    "value" : "Buildin allure for spec in ts:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1716913e9fd416c1.json",
+  "parameterValues" : [ ]
+}

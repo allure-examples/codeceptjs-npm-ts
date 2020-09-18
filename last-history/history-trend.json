@@ -1,0 +1,13 @@
+[ {
+  "buildOrder" : 3,
+  "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 2,
+    "broken" : 0,
+    "skipped" : 1,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 6
+  }
+} ]

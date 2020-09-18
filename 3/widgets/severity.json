@@ -1,0 +1,61 @@
+[ {
+  "uid" : "3256f7a412684fb5",
+  "name" : "Passed test with labels",
+  "time" : {
+    "start" : 1600444533549,
+    "stop" : 1600444533556,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd1d73fd9abd701e",
+  "name" : "simple failed test",
+  "time" : {
+    "start" : 1600444533610,
+    "stop" : 1600444533613,
+    "duration" : 3
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "dbc283a135aab5be",
+  "name" : "Parametrized test with labels | {\"first\":1,\"second\":\"alpha\",\"third\":true}",
+  "time" : {
+    "start" : 1600444533563,
+    "stop" : 1600444533563,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1716913e9fd416c1",
+  "name" : "simple passed test",
+  "time" : {
+    "start" : 1600444533609,
+    "stop" : 1600444533610,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71a03c7945a7f4f0",
+  "name" : "Parametrized test with labels | {\"first\":3,\"second\":\"charlie\"}",
+  "time" : {
+    "start" : 1600444533563,
+    "stop" : 1600444533563,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a929441edab70ff9",
+  "name" : "Parametrized test with labels | {\"first\":2,\"second\":\"bravo\",\"third\":false}",
+  "time" : {
+    "start" : 1600444533564,
+    "stop" : 1600444533605,
+    "duration" : 41
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

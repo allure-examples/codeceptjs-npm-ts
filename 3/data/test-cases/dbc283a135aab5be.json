@@ -1,0 +1,53 @@
+{
+  "uid" : "dbc283a135aab5be",
+  "name" : "Parametrized test with labels | {\"first\":1,\"second\":\"alpha\",\"third\":true}",
+  "fullName" : "Buildin allure for ts:.Parametrized test with labels | {\"first\":1,\"second\":\"alpha\",\"third\":true}",
+  "historyId" : "b63fb9bf0f5172d822b1b51d377f6f06",
+  "time" : {
+    "start" : 1600444533563,
+    "stop" : 1600444533563,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Feature example"
+  }, {
+    "name" : "owner",
+    "value" : "alpha"
+  }, {
+    "name" : "suite",
+    "value" : "Buildin allure for ts:"
+  }, {
+    "name" : "testClass",
+    "value" : "Buildin allure for ts:"
+  }, {
+    "name" : "testMethod",
+    "value" : "Parametrized test with labels | {\"first\":1,\"second\":\"alpha\",\"third\":true}"
+  }, {
+    "name" : "package",
+    "value" : "Buildin allure for ts:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "owner" : "alpha",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dbc283a135aab5be.json",
+  "parameterValues" : [ ]
+}
