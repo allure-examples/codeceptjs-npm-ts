@@ -1,0 +1,118 @@
+{
+  "uid" : "986c1d76f0fe37",
+  "name" : "simple passed test",
+  "fullName" : "Buildin allure for spec in ts:.simple passed test",
+  "historyId" : "9af28e01f408854a073e1ecef0f59efe",
+  "time" : {
+    "start" : 1600459153204,
+    "stop" : 1600459153205,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "I passed step ",
+      "time" : {
+        "start" : 1600459153205,
+        "stop" : 1600459153205,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Buildin allure for spec in ts:"
+  }, {
+    "name" : "testClass",
+    "value" : "Buildin allure for spec in ts:"
+  }, {
+    "name" : "testMethod",
+    "value" : "simple passed test"
+  }, {
+    "name" : "package",
+    "value" : "Buildin allure for spec in ts:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "5a3010b63cb3895f",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/6//#testresult/5a3010b63cb3895f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600458966937,
+          "stop" : 1600458966938,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "5b26dd08398cc31c",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/5//#testresult/5b26dd08398cc31c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600450606690,
+          "stop" : 1600450606691,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "687f1c60163d4a64",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/4//#testresult/687f1c60163d4a64",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600444991877,
+          "stop" : 1600444991878,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "1716913e9fd416c1",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/3//#testresult/1716913e9fd416c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600444533609,
+          "stop" : 1600444533610,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "986c1d76f0fe37.json",
+  "parameterValues" : [ ]
+}
