@@ -1,0 +1,116 @@
+{
+  "uid" : "947eb70c332d61f3",
+  "name" : "Passed test with labels",
+  "fullName" : "Buildin allure for ts:.Passed test with labels",
+  "historyId" : "4013ba90cc9444c457c9859d45d88302",
+  "time" : {
+    "start" : 1600458966876,
+    "stop" : 1600458966883,
+    "duration" : 7
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "I passed step ",
+      "time" : {
+        "start" : 1600458966882,
+        "stop" : 1600458966883,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Feature example"
+  }, {
+    "name" : "owner",
+    "value" : "eroshenkoam"
+  }, {
+    "name" : "suite",
+    "value" : "Buildin allure for ts:"
+  }, {
+    "name" : "testClass",
+    "value" : "Buildin allure for ts:"
+  }, {
+    "name" : "testMethod",
+    "value" : "Passed test with labels"
+  }, {
+    "name" : "package",
+    "value" : "Buildin allure for ts:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "owner" : "eroshenkoam",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "bbe65bf0d89311eb",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/5//#testresult/bbe65bf0d89311eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600450604534,
+          "stop" : 1600450604542,
+          "duration" : 8
+        }
+      }, {
+        "uid" : "b56ca1869827d20b",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/4//#testresult/b56ca1869827d20b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600444991810,
+          "stop" : 1600444991818,
+          "duration" : 8
+        }
+      }, {
+        "uid" : "3256f7a412684fb5",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/3//#testresult/3256f7a412684fb5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600444533549,
+          "stop" : 1600444533556,
+          "duration" : 7
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "947eb70c332d61f3.json",
+  "parameterValues" : [ ]
+}
