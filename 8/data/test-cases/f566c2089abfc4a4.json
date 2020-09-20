@@ -1,0 +1,109 @@
+{
+  "uid" : "f566c2089abfc4a4",
+  "name" : "Parametrized test with labels | {\"first\":3,\"second\":\"charlie\"}",
+  "fullName" : "Buildin allure for ts:.Parametrized test with labels | {\"first\":3,\"second\":\"charlie\"}",
+  "historyId" : "1e724e83da4cf8f89566c26bca5450ec",
+  "time" : {
+    "start" : 1600590204154,
+    "stop" : 1600590204154,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Buildin allure for ts:"
+  }, {
+    "name" : "testClass",
+    "value" : "Buildin allure for ts:"
+  }, {
+    "name" : "testMethod",
+    "value" : "Parametrized test with labels | {\"first\":3,\"second\":\"charlie\"}"
+  }, {
+    "name" : "package",
+    "value" : "Buildin allure for ts:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 6,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 6
+      },
+      "items" : [ {
+        "uid" : "f6b9fd4ade7f04f5",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/7//#testresult/f6b9fd4ade7f04f5",
+        "status" : "skipped",
+        "statusDetails" : "Test ignored",
+        "time" : {
+          "start" : 1600459153158,
+          "stop" : 1600459153158,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "9f47207b550a2d35",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/6//#testresult/9f47207b550a2d35",
+        "status" : "skipped",
+        "statusDetails" : "Test ignored",
+        "time" : {
+          "start" : 1600458966889,
+          "stop" : 1600458966889,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "77630e77d2f03083",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/5//#testresult/77630e77d2f03083",
+        "status" : "skipped",
+        "statusDetails" : "Test ignored",
+        "time" : {
+          "start" : 1600450604549,
+          "stop" : 1600450604549,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "bab5df28a784fb",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/4//#testresult/bab5df28a784fb",
+        "status" : "skipped",
+        "statusDetails" : "Test ignored",
+        "time" : {
+          "start" : 1600444991826,
+          "stop" : 1600444991826,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "71a03c7945a7f4f0",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/3//#testresult/71a03c7945a7f4f0",
+        "status" : "skipped",
+        "statusDetails" : "Test ignored",
+        "time" : {
+          "start" : 1600444533563,
+          "stop" : 1600444533563,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f566c2089abfc4a4.json",
+  "parameterValues" : [ ]
+}
