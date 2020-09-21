@@ -1,0 +1,166 @@
+{
+  "uid" : "f81ec8c89af7ed27",
+  "name" : "simple failed test",
+  "fullName" : "Buildin allure for spec in ts:.simple failed test",
+  "historyId" : "effe1028f47f019cc75c82980770481b",
+  "time" : {
+    "start" : 1600690393646,
+    "stop" : 1600690393649,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "false == true",
+  "statusTrace" : "AssertionError [ERR_ASSERTION]: false == true\n                    at Dummy.failedStep (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/helpers/dummy.ts:8:5)\n                    at Step.run (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/codeceptjs/lib/step.js:70:47)\n                    at /home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/codeceptjs/lib/actor.js:92:23",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "false == true",
+    "statusTrace" : "AssertionError [ERR_ASSERTION]: false == true\n                    at Dummy.failedStep (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/helpers/dummy.ts:8:5)\n                    at Step.run (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/codeceptjs/lib/step.js:70:47)\n                    at /home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/codeceptjs/lib/actor.js:92:23",
+    "steps" : [ {
+      "name" : "I passed step ",
+      "time" : {
+        "start" : 1600690393647,
+        "stop" : 1600690393647,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "I failed step ",
+      "time" : {
+        "start" : 1600690393647,
+        "stop" : 1600690393649,
+        "duration" : 2
+      },
+      "status" : "failed",
+      "statusMessage" : "AssertionError [ERR_ASSERTION]: false == true\n                    at Dummy.failedStep (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/helpers/dummy.ts:8:5)\n                    at Step.run (/home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/codeceptjs/lib/step.js:70:47)\n                    at /home/runner/work/allure-typescript-codeceptjs/allure-typescript-codeceptjs/node_modules/codeceptjs/lib/actor.js:92:23",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Buildin allure for spec in ts:"
+  }, {
+    "name" : "testClass",
+    "value" : "Buildin allure for spec in ts:"
+  }, {
+    "name" : "testMethod",
+    "value" : "simple failed test"
+  }, {
+    "name" : "package",
+    "value" : "Buildin allure for spec in ts:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 7,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 7
+      },
+      "items" : [ {
+        "uid" : "83ee4c24effd3e09",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/8//#testresult/83ee4c24effd3e09",
+        "status" : "failed",
+        "statusDetails" : "false == true",
+        "time" : {
+          "start" : 1600590204216,
+          "stop" : 1600590204219,
+          "duration" : 3
+        }
+      }, {
+        "uid" : "956488fd864aeea6",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/7//#testresult/956488fd864aeea6",
+        "status" : "failed",
+        "statusDetails" : "false == true",
+        "time" : {
+          "start" : 1600459153206,
+          "stop" : 1600459153209,
+          "duration" : 3
+        }
+      }, {
+        "uid" : "53105b409f0ec281",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/6//#testresult/53105b409f0ec281",
+        "status" : "failed",
+        "statusDetails" : "false == true",
+        "time" : {
+          "start" : 1600458966938,
+          "stop" : 1600458966941,
+          "duration" : 3
+        }
+      }, {
+        "uid" : "63c1cdd99059e8d2",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/5//#testresult/63c1cdd99059e8d2",
+        "status" : "failed",
+        "statusDetails" : "false == true",
+        "time" : {
+          "start" : 1600450606691,
+          "stop" : 1600450606695,
+          "duration" : 4
+        }
+      }, {
+        "uid" : "b17f165fbad67381",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/4//#testresult/b17f165fbad67381",
+        "status" : "failed",
+        "statusDetails" : "false == true",
+        "time" : {
+          "start" : 1600444991879,
+          "stop" : 1600444991882,
+          "duration" : 3
+        }
+      }, {
+        "uid" : "cd1d73fd9abd701e",
+        "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/3//#testresult/cd1d73fd9abd701e",
+        "status" : "failed",
+        "statusDetails" : "false == true",
+        "time" : {
+          "start" : 1600444533610,
+          "stop" : 1600444533613,
+          "duration" : 3
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "f81ec8c89af7ed27.json",
+  "parameterValues" : [ ]
+}

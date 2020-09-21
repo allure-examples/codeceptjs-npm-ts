@@ -1,0 +1,91 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Buildin allure for ts:",
+    "children" : [ {
+      "name" : "Passed test with labels",
+      "uid" : "ecda1cc19a08c631",
+      "parentUid" : "6c85378479299dd5c4f11ad559a70152",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600690393554,
+        "stop" : 1600690393563,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Parametrized test with labels | {\"first\":3,\"second\":\"charlie\"}",
+      "uid" : "600c1e1a2cb4e00b",
+      "parentUid" : "6c85378479299dd5c4f11ad559a70152",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1600690393570,
+        "stop" : 1600690393570,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Parametrized test with labels | {\"first\":1,\"second\":\"alpha\",\"third\":true}",
+      "uid" : "b45982db15413e6a",
+      "parentUid" : "6c85378479299dd5c4f11ad559a70152",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600690393571,
+        "stop" : 1600690393571,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Parametrized test with labels | {\"first\":2,\"second\":\"bravo\",\"third\":false}",
+      "uid" : "1dc8631e935cdcba",
+      "parentUid" : "6c85378479299dd5c4f11ad559a70152",
+      "status" : "failed",
+      "time" : {
+        "start" : 1600690393571,
+        "stop" : 1600690393640,
+        "duration" : 69
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6c85378479299dd5c4f11ad559a70152"
+  }, {
+    "name" : "Buildin allure for spec in ts:",
+    "children" : [ {
+      "name" : "simple passed test",
+      "uid" : "8fbbb48b0f4140a2",
+      "parentUid" : "dd71b6406251fb39575b1843d4469b72",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600690393645,
+        "stop" : 1600690393646,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "simple failed test",
+      "uid" : "f81ec8c89af7ed27",
+      "parentUid" : "dd71b6406251fb39575b1843d4469b72",
+      "status" : "failed",
+      "time" : {
+        "start" : 1600690393646,
+        "stop" : 1600690393649,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "dd71b6406251fb39575b1843d4469b72"
+  } ],
+  "name" : "suites"
+}
