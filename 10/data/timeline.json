@@ -1,5 +1,1 @@
-{
-  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-  "children" : [ ],
-  "name" : "timeline"
-}
+{"uid":"ab17fc5a4eb3bca4b216b548c7f9fcbc","children":[{"name":"fv-az570-685","children":[{"name":"pid-2174-worker-main","children":[{"name":"sample test","uid":"6ad9aabbe01b9366","parentUid":"2d0a6b435f34cd9db56f51f922e5a9cb","status":"passed","time":{"start":1727717276698,"stop":1727717276708,"duration":10},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"2d0a6b435f34cd9db56f51f922e5a9cb"}],"uid":"7ab39abc5c3427173c1cef88f2350c1b"}],"name":"timeline"}
