@@ -1,9 +1,1 @@
-[ {
-  "buildOrder" : 3,
-  "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/3/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "run" : 6,
-    "retry" : 0
-  }
-} ]
+[{"buildOrder":3,"reportUrl":"https://allure-examples.github.io/codeceptjs-npm-ts/3/","reportName":"Allure Report with history","data":{"run":1,"retry":0}},{"data":{"run":0,"retry":0}}]
