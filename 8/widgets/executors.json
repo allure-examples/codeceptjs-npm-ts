@@ -1,10 +1,1 @@
-[ {
-  "name" : "GitHub Actions",
-  "type" : "github",
-  "url" : "https://allure-examples.github.io/allure-typescript-codeceptjs",
-  "buildOrder" : 8,
-  "buildName" : "GitHub Actions Run #263499429",
-  "buildUrl" : "https://github.com/allure-examples/allure-typescript-codeceptjs/actions/runs/263499429",
-  "reportName" : "Allure Report with history",
-  "reportUrl" : "https://allure-examples.github.io/allure-typescript-codeceptjs/8/"
-} ]
+[{"name":"GitHub Actions","type":"github","url":"https://allure-examples.github.io/codeceptjs-npm-ts","buildOrder":8,"buildName":"GitHub Actions Run #11110817094","buildUrl":"https://github.com/allure-examples/codeceptjs-npm-ts/actions/runs/11110817094","reportName":"Allure Report with history","reportUrl":"https://allure-examples.github.io/codeceptjs-npm-ts/8/"}]

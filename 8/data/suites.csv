@@ -1,7 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sun Sep 20 08:23:24 GMT 2020","Sun Sep 20 08:23:24 GMT 2020","0","","Buildin allure for ts:","","Buildin allure for ts:","Parametrized test with labels | {""first"":1,""second"":""alpha"",""third"":true}","Parametrized test with labels | {""first"":1,""second"":""alpha"",""third"":true}",""
-"passed","Sun Sep 20 08:23:24 GMT 2020","Sun Sep 20 08:23:24 GMT 2020","2","","Buildin allure for spec in ts:","","Buildin allure for spec in ts:","simple passed test","simple passed test",""
-"skipped","Sun Sep 20 08:23:24 GMT 2020","Sun Sep 20 08:23:24 GMT 2020","0","","Buildin allure for ts:","","Buildin allure for ts:","Parametrized test with labels | {""first"":3,""second"":""charlie""}","Parametrized test with labels | {""first"":3,""second"":""charlie""}",""
-"failed","Sun Sep 20 08:23:24 GMT 2020","Sun Sep 20 08:23:24 GMT 2020","56","","Buildin allure for ts:","","Buildin allure for ts:","Parametrized test with labels | {""first"":2,""second"":""bravo"",""third"":false}","Parametrized test with labels | {""first"":2,""second"":""bravo"",""third"":false}",""
-"failed","Sun Sep 20 08:23:24 GMT 2020","Sun Sep 20 08:23:24 GMT 2020","3","","Buildin allure for spec in ts:","","Buildin allure for spec in ts:","simple failed test","simple failed test",""
-"passed","Sun Sep 20 08:23:24 GMT 2020","Sun Sep 20 08:23:24 GMT 2020","7","","Buildin allure for ts:","","Buildin allure for ts:","Passed test with labels","Passed test with labels",""
+"passed","Mon Sep 30 17:06:29 GMT 2024","Mon Sep 30 17:06:29 GMT 2024","10","sample feature","","","","","sample test",""
